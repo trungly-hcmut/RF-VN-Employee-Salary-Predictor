@@ -1,0 +1,501 @@
+YearsExperience,Education,JobRole,Location,Age,Gender,Salary
+7.49080237694725,PhD,Manager,San Francisco,38,Other,228531
+19.01428612819832,High School,HR,New York,30,Other,179642
+14.639878836228101,High School,Software Engineer,San Francisco,54,Other,209392
+11.973169683940732,Bachelor,Analyst,Austin,41,Female,187403
+3.1203728088487304,PhD,Software Engineer,India,34,Other,168923
+3.119890406724053,Bachelor,HR,Remote,49,Female,145906
+1.1616722433639892,High School,HR,San Francisco,50,Other,130762
+17.323522915498703,Bachelor,Analyst,Austin,34,Other,208542
+12.022300234864176,High School,Software Engineer,Remote,56,Male,178471
+14.161451555920909,PhD,HR,Remote,27,Female,199905
+0.41168988591604894,Master,Manager,San Francisco,39,Male,193864
+19.398197043239886,PhD,Data Scientist,New York,26,Male,263897
+16.648852816008436,Bachelor,Data Scientist,San Francisco,46,Male,245683
+4.246782213565523,Bachelor,Data Scientist,Austin,23,Female,144923
+3.6364993441420124,PhD,Software Engineer,Remote,31,Female,180597
+3.6680901970686763,PhD,Analyst,San Francisco,51,Other,195686
+6.0848448591907545,High School,HR,New York,26,Male,134944
+10.495128632644757,Bachelor,Manager,San Francisco,54,Other,214686
+8.638900372842315,Bachelor,Manager,India,22,Male,161302
+5.824582803960839,PhD,Software Engineer,New York,39,Female,216475
+12.23705789444759,Master,Data Scientist,Austin,53,Female,235372
+2.7898772130408367,Bachelor,Software Engineer,Remote,32,Female,116899
+5.842892970704363,Master,Analyst,San Francisco,42,Male,195094
+7.327236865873834,PhD,Analyst,New York,47,Female,227492
+9.12139968434072,PhD,HR,India,46,Male,196541
+15.703519227860273,High School,HR,New York,43,Other,181331
+3.9934756431671947,Bachelor,Analyst,India,48,Male,145165
+10.284688768272233,Master,Analyst,Austin,34,Other,184563
+11.84829137724085,High School,Analyst,Remote,54,Male,149497
+0.9290082543999545,Bachelor,Software Engineer,Austin,55,Other,138683
+12.150897038028766,High School,Analyst,San Francisco,56,Female,189492
+3.4104824737458306,PhD,Manager,New York,22,Other,207111
+1.3010318597055903,Bachelor,Data Scientist,India,42,Female,144807
+18.977710745066666,High School,Analyst,India,27,Female,183158
+19.312640661491187,High School,Data Scientist,New York,49,Other,235887
+16.16794696232922,Master,Software Engineer,New York,38,Male,250976
+6.092275383467413,High School,Data Scientist,San Francisco,26,Male,138054
+1.9534422801276774,Bachelor,Software Engineer,Austin,52,Male,149835
+13.684660530243137,Bachelor,Manager,India,26,Male,186940
+8.803049874792027,Master,Software Engineer,San Francisco,59,Male,220266
+2.4407646968955765,Bachelor,Software Engineer,Austin,24,Female,126303
+9.903538202225404,PhD,HR,San Francisco,44,Male,243384
+0.6877704223043679,Bachelor,Analyst,India,58,Female,135027
+18.186408041575643,Bachelor,Analyst,New York,58,Female,251107
+5.175599632000338,High School,Manager,New York,31,Female,125354
+13.25044568707964,High School,Manager,Austin,31,Other,190832
+6.2342215217882195,Bachelor,Analyst,Remote,40,Other,142310
+10.401360423556216,Master,HR,Austin,38,Female,175320
+10.934205586865593,High School,Analyst,Remote,42,Other,147925
+3.697089110510541,Master,HR,San Francisco,35,Male,151635
+19.391692555291172,Bachelor,Manager,San Francisco,30,Male,255438
+15.502656467222291,Bachelor,Data Scientist,India,22,Female,179159
+18.789978831283783,PhD,Manager,Remote,34,Male,253564
+17.896547008552975,High School,Manager,India,25,Female,180802
+11.957999576221702,Bachelor,Software Engineer,New York,22,Female,195970
+18.437484700462335,PhD,Software Engineer,Remote,53,Male,269502
+1.76985004103839,High School,Software Engineer,Austin,55,Other,117752
+3.919657248382904,Bachelor,Software Engineer,New York,49,Male,176248
+0.9045457782107613,Bachelor,HR,New York,52,Male,135233
+6.506606615265287,High School,Analyst,Austin,29,Female,97972
+7.773545793789641,High School,Data Scientist,New York,47,Female,188828
+5.426980635477918,High School,Manager,Remote,55,Female,159707
+16.57475018303859,Bachelor,HR,India,24,Female,169091
+7.135066533871786,Bachelor,Data Scientist,New York,33,Other,173219
+5.618690193747615,PhD,HR,Remote,22,Other,172064
+10.85392166316497,Master,HR,San Francisco,26,Other,224141
+2.818484499495253,High School,Manager,Remote,51,Female,142580
+16.043939615080795,Bachelor,Analyst,India,51,Female,188923
+1.4910128735954165,Bachelor,Software Engineer,Remote,38,Female,126910
+19.737738732010346,High School,Analyst,Austin,44,Other,204994
+15.444895385933147,Master,Manager,India,36,Female,197729
+3.974313630683448,High School,Manager,San Francisco,58,Male,179217
+0.11044234247204798,Master,Manager,Austin,42,Male,164916
+16.309228569096682,Bachelor,Data Scientist,Remote,35,Female,217810
+14.137146876952343,Master,Analyst,India,23,Male,193907
+14.580143360819747,PhD,Analyst,San Francisco,32,Male,244012
+15.425406933718914,Bachelor,HR,Austin,59,Other,224273
+1.4808930346818072,PhD,HR,San Francisco,55,Female,215761
+7.169314570885453,High School,HR,Remote,59,Female,143126
+2.3173811905025943,High School,Manager,San Francisco,55,Other,168769
+17.26206851751187,High School,Analyst,New York,39,Male,180637
+12.465962536551158,Master,Manager,Austin,51,Male,216820
+6.617960497052984,Bachelor,Data Scientist,San Francisco,36,Female,173708
+1.2711670057204727,High School,HR,Remote,48,Male,97920
+6.219646434313244,High School,Manager,Remote,55,Other,148137
+6.503666440534941,Bachelor,Manager,San Francisco,59,Other,209158
+14.59212356676128,High School,Data Scientist,Remote,54,Female,190824
+12.751149427104263,PhD,Software Engineer,India,45,Other,237465
+17.74425485152653,Bachelor,Analyst,India,36,Other,187974
+9.444298503238986,Bachelor,Software Engineer,India,51,Female,153354
+2.391884918766034,Bachelor,HR,New York,38,Other,139217
+14.2648957444599,PhD,Manager,San Francisco,26,Other,255182
+15.215700972337949,Bachelor,Data Scientist,New York,50,Other,225458
+11.225543951389925,PhD,Data Scientist,Remote,25,Male,210078
+15.41934359909122,Bachelor,Analyst,New York,31,Female,190344
+9.875911927287815,Master,Software Engineer,Remote,38,Female,193678
+10.454656587639882,High School,Analyst,Remote,31,Female,162603
+8.550820367170992,Master,Manager,Austin,38,Male,180698
+0.5083825348819038,High School,Analyst,India,41,Male,86379
+2.157828539866089,PhD,Data Scientist,Remote,45,Female,177024
+0.628583713734685,Master,Data Scientist,Austin,26,Male,137810
+12.728208225275608,Bachelor,HR,India,55,Female,191840
+6.287119621526534,High School,HR,Remote,27,Male,111864
+10.171413823294056,High School,Manager,Remote,23,Other,155345
+18.15132947852186,Master,Software Engineer,New York,34,Other,248062
+4.985844582977499,PhD,Analyst,New York,32,Female,176708
+8.207658460712594,Master,Manager,India,44,Male,181891
+15.111022770860973,PhD,HR,Remote,37,Male,228018
+4.575963309832449,PhD,Analyst,San Francisco,52,Other,214588
+1.5395981965758598,High School,HR,New York,32,Other,120300
+5.795029058275361,Master,Analyst,India,37,Male,156908
+3.2244257450800884,Master,Software Engineer,Remote,29,Male,136292
+18.59395304685146,PhD,Manager,Remote,25,Male,245751
+16.16240759128834,Master,Analyst,San Francisco,25,Male,229460
+12.66807513020847,Bachelor,Data Scientist,India,46,Male,199444
+17.429211803754356,Bachelor,Data Scientist,Remote,24,Male,207697
+16.07344153798229,Master,Analyst,New York,53,Female,235882
+3.7314011777207168,Master,Analyst,San Francisco,24,Male,148647
+17.851179969799556,PhD,Analyst,India,48,Other,243358
+10.786844838313014,Bachelor,Data Scientist,San Francisco,50,Female,231335
+16.14880310328125,Bachelor,Data Scientist,New York,53,Male,234805
+17.921825998469863,High School,Analyst,India,40,Other,182159
+6.3600694994372775,PhD,HR,San Francisco,42,Female,211351
+2.201038490553535,High School,HR,Austin,26,Other,97613
+4.558703250838834,Bachelor,Software Engineer,New York,39,Male,181438
+8.542155772525126,PhD,Manager,New York,49,Male,260330
+16.36029531844986,Master,HR,New York,43,Male,226855
+17.214611665126867,PhD,Data Scientist,Austin,42,Male,240094
+0.13904261062381407,Master,HR,Austin,27,Female,113910
+10.214946051551316,Master,Software Engineer,Remote,22,Female,176831
+8.34822006297558,PhD,Software Engineer,San Francisco,26,Other,212125
+4.442156209414605,Master,Manager,Remote,33,Male,187890
+2.397307346673656,High School,HR,San Francisco,47,Other,132174
+6.752303428072559,Bachelor,Data Scientist,Austin,55,Female,188299
+18.858194078250385,Master,Data Scientist,Austin,35,Male,244463
+6.464058640415105,High School,Analyst,Remote,47,Male,128854
+10.375812434867322,Master,Data Scientist,India,48,Female,183631
+14.060379177903556,Bachelor,Manager,Remote,30,Female,192516
+7.27259204758588,High School,Manager,San Francisco,47,Female,213909
+19.435641654419214,Bachelor,Data Scientist,Remote,43,Female,215734
+19.248945898842223,Bachelor,Data Scientist,New York,51,Female,237096
+5.035645916507283,High School,Analyst,San Francisco,38,Male,160542
+9.94497011784771,High School,Data Scientist,San Francisco,47,Female,197146
+6.017566196335393,High School,Analyst,India,57,Male,136962
+5.696809887549352,PhD,Analyst,Austin,22,Male,182111
+0.7377389470906559,High School,Data Scientist,San Francisco,29,Female,117374
+12.191286679597937,High School,Software Engineer,Austin,56,Female,183890
+10.05358046457723,High School,Software Engineer,Remote,36,Male,158819
+1.029575024999787,High School,Analyst,New York,43,Female,142251
+5.572929284732229,Master,Data Scientist,India,35,Female,154179
+18.165317719333075,PhD,Software Engineer,Austin,47,Female,278634
+4.791237813339448,Bachelor,Data Scientist,San Francisco,49,Other,189775
+2.897897441824462,High School,Data Scientist,Austin,44,Male,133120
+9.78905520555126,Master,Data Scientist,San Francisco,35,Other,216868
+19.713009082212015,Master,HR,Austin,45,Female,222719
+4.841105430230009,Master,Data Scientist,San Francisco,23,Other,189836
+13.442710948117572,Bachelor,HR,Remote,47,Female,174391
+15.23239230657435,High School,Analyst,San Francisco,35,Other,178365
+4.752750879847993,PhD,Software Engineer,San Francisco,28,Female,208618
+14.564326972237192,PhD,Software Engineer,New York,24,Other,247713
+7.355662654385064,Master,Software Engineer,San Francisco,44,Other,209568
+12.646116611871589,Bachelor,Software Engineer,New York,39,Other,216026
+12.670594215217895,Bachelor,Software Engineer,India,59,Male,214612
+10.71549368149517,Bachelor,Software Engineer,New York,56,Other,225660
+1.805795401088166,PhD,Software Engineer,Remote,36,Male,162746
+16.70604991178476,Master,Analyst,New York,46,Female,252671
+6.415601299434717,High School,Data Scientist,India,58,Other,155194
+3.7303702079970846,PhD,Manager,Remote,49,Female,217911
+0.8155028310952783,Master,HR,Austin,31,Female,126840
+11.817858863764837,Master,Manager,Austin,38,Other,211525
+13.55128723684565,High School,Manager,New York,43,Male,197618
+0.33175657855712304,High School,Data Scientist,New York,47,Other,138552
+10.24186116598562,High School,Data Scientist,India,46,Female,164877
+4.529915503958759,Bachelor,Data Scientist,India,38,Female,148509
+12.903455808188998,High School,Software Engineer,San Francisco,34,Other,190009
+3.487328580099829,Master,Analyst,India,41,Male,153147
+13.81875476204932,High School,Software Engineer,San Francisco,46,Male,200868
+7.734706926010748,Master,Analyst,Remote,25,Female,147948
+18.73459977473469,PhD,Analyst,New York,31,Female,248075
+2.750418882919865,Bachelor,Manager,Remote,24,Male,140503
+6.82132702100517,PhD,Manager,India,39,Other,205810
+2.2694704248117814,PhD,Analyst,Remote,57,Female,162789
+18.493872365571256,Master,Analyst,Remote,43,Male,239437
+17.54678706761962,PhD,Software Engineer,Remote,55,Female,284538
+5.158832554303112,Master,Software Engineer,India,29,Other,145635
+13.19968092068358,High School,Manager,Remote,40,Male,182360
+16.344444004024318,High School,Data Scientist,San Francisco,58,Female,227988
+11.104016231989247,Master,Analyst,India,27,Other,176803
+10.59301156712013,High School,Software Engineer,Remote,47,Female,151305
+4.837045818009034,Bachelor,Manager,India,55,Other,166471
+1.8620553561179842,PhD,Software Engineer,Austin,27,Other,174123
+17.944315159066534,Bachelor,Analyst,San Francisco,58,Male,258079
+18.008361143266608,PhD,Analyst,Remote,54,Other,261307
+12.66202914546536,High School,HR,Austin,43,Female,155920
+6.780595820974014,Bachelor,Data Scientist,Austin,42,Other,152977
+6.984191492253218,High School,HR,India,27,Other,97345
+14.519113577404788,PhD,Manager,Austin,27,Male,232903
+17.942205199051543,Master,Software Engineer,San Francisco,25,Other,235734
+17.741728485302346,Master,Manager,San Francisco,51,Other,278304
+15.597510917152476,Bachelor,Analyst,New York,32,Female,199569
+12.840632923085755,High School,HR,San Francisco,51,Male,189924
+1.6827992999009767,High School,HR,Austin,52,Male,125440
+3.2325742818922754,Bachelor,HR,San Francisco,45,Male,150098
+17.971083770541586,Master,Manager,India,30,Other,214027
+12.128581193191799,PhD,Analyst,New York,24,Male,210626
+0.18394103233259296,Bachelor,Software Engineer,Austin,52,Other,146756
+2.029430857320642,PhD,Software Engineer,New York,58,Other,217927
+13.270035382161115,Master,Manager,Austin,57,Female,245411
+0.10123167692437374,High School,HR,India,45,Female,101514
+3.216161028349973,Master,Data Scientist,New York,52,Female,194217
+10.974675787331723,Bachelor,Manager,Remote,27,Female,195395
+13.837903953853864,High School,Manager,Austin,23,Female,178371
+13.039225190052012,Bachelor,Analyst,Remote,41,Other,153961
+4.485386189211196,Bachelor,Software Engineer,New York,49,Other,192434
+14.243584426950717,Master,Manager,Remote,32,Male,208548
+4.744981749936001,Bachelor,Manager,Remote,25,Other,131384
+6.5079939631853545,Master,HR,New York,36,Other,181778
+14.929828102360483,High School,HR,India,27,Female,127267
+12.992657980944294,Master,Data Scientist,Remote,51,Other,217009
+16.98446820988356,High School,Analyst,Remote,59,Female,212493
+13.152257846006867,Master,Data Scientist,India,23,Male,197323
+11.366172066709431,PhD,HR,Remote,36,Male,208953
+1.8734953565618495,PhD,Software Engineer,Remote,32,Other,157798
+7.354316061188671,Bachelor,HR,Remote,29,Male,118388
+5.304047353634509,Master,Analyst,San Francisco,47,Other,198588
+4.8797928675816715,Master,HR,India,26,Male,142702
+19.460211095048912,High School,Analyst,Remote,27,Female,186151
+7.861954493335208,Bachelor,Analyst,India,47,Female,156400
+17.840931103542268,Master,Analyst,Austin,25,Female,202534
+12.622772519945258,Bachelor,Analyst,Austin,40,Female,205492
+15.896226070832968,PhD,Analyst,Remote,41,Other,238279
+10.052741862103842,Master,Software Engineer,India,54,Male,200525
+11.538077692527182,Master,Data Scientist,India,41,Other,199996
+9.850353876377278,Bachelor,Manager,India,33,Female,171748
+3.90485975596089,Master,Data Scientist,San Francisco,22,Other,185220
+14.449042305230106,Bachelor,Analyst,Austin,47,Male,199141
+5.615447248817116,Master,Software Engineer,India,35,Other,169662
+0.4863193286290768,High School,HR,India,59,Male,105946
+12.909445918143357,Bachelor,Software Engineer,San Francisco,58,Other,229424
+3.542213588140979,Master,Analyst,San Francisco,32,Male,174124
+18.809171687058285,PhD,Software Engineer,India,57,Male,275079
+19.078571540051747,Master,Software Engineer,New York,34,Female,250697
+18.29728780440897,PhD,Analyst,India,24,Male,215994
+7.4031740051088875,PhD,Software Engineer,India,54,Female,212433
+0.30913233057734857,High School,Manager,San Francisco,27,Female,127329
+18.566371251754507,Bachelor,Manager,San Francisco,31,Female,236283
+8.563682966346287,Master,Software Engineer,India,26,Other,158394
+19.333096380873393,High School,HR,India,44,Other,187770
+19.272399541785056,Master,Analyst,India,31,Other,220863
+17.060189109347203,PhD,Manager,San Francisco,23,Other,262701
+5.888977841391714,Bachelor,HR,India,34,Male,120646
+7.701954572038505,Master,Software Engineer,India,23,Male,151207
+17.022733430337137,Master,HR,Remote,41,Other,217936
+6.338440103125553,PhD,Data Scientist,New York,22,Male,193652
+3.3898549337218498,Master,Manager,Austin,58,Male,215361
+11.136025249167004,Master,Software Engineer,New York,30,Female,204577
+18.72309548321562,PhD,Analyst,Remote,38,Female,220363
+13.92059593349946,High School,Software Engineer,Austin,30,Female,167301
+11.401223401787298,PhD,Analyst,India,32,Female,196276
+1.9435298754153707,High School,Software Engineer,Remote,36,Male,119835
+12.300144533983396,Bachelor,HR,India,45,Other,172382
+19.801077002085265,High School,HR,San Francisco,59,Male,222667
+2.8016803047304806,High School,HR,Remote,56,Male,115144
+10.366593047274735,Bachelor,Data Scientist,San Francisco,51,Male,219107
+17.547461438559107,High School,Analyst,Remote,52,Female,171090
+14.815372355084088,PhD,HR,Remote,26,Female,221463
+13.94031481990536,High School,Data Scientist,San Francisco,35,Female,189390
+14.049681679742186,Bachelor,Analyst,Austin,32,Other,194419
+7.189823024395103,PhD,Software Engineer,New York,30,Male,212874
+5.871836885289867,Bachelor,Data Scientist,India,55,Other,173655
+16.187223109570272,Bachelor,Manager,Remote,33,Female,218430
+16.202267893583617,Master,Data Scientist,India,56,Other,245743
+17.341446371602075,Master,Data Scientist,San Francisco,56,Male,282436
+18.264811051129428,Bachelor,Analyst,India,22,Male,179680
+10.226847977218757,Bachelor,Software Engineer,San Francisco,43,Female,205856
+10.030325893743992,Bachelor,Manager,India,50,Female,182277
+15.965903579335503,Master,HR,New York,29,Other,213395
+12.999278615555303,Master,HR,New York,32,Female,224643
+14.039337545154067,High School,Data Scientist,New York,58,Female,208115
+15.91585338872202,High School,Analyst,New York,35,Male,189122
+17.800106836351326,Bachelor,Analyst,New York,51,Female,234135
+6.759903137030716,PhD,HR,New York,56,Female,214692
+7.51165905279888,PhD,Manager,San Francisco,42,Male,242702
+1.87963879681738,Master,Software Engineer,Remote,58,Male,176295
+11.56560281992348,Master,Manager,India,26,Other,182570
+0.7188454759348417,Master,Software Engineer,New York,40,Female,167608
+9.311960362649202,Bachelor,HR,San Francisco,35,Male,163736
+10.852892694151532,PhD,Software Engineer,San Francisco,47,Other,257150
+5.730825042565688,High School,Analyst,San Francisco,25,Other,133419
+11.816665211380215,Bachelor,Data Scientist,Remote,46,Female,193907
+0.6100049987809886,High School,Data Scientist,India,46,Female,118640
+0.7469637749842883,High School,HR,Remote,39,Other,87980
+16.452011213193167,Bachelor,Analyst,Austin,29,Male,198400
+7.203812828225258,High School,Manager,San Francisco,35,Other,159535
+2.5412102530376957,PhD,Analyst,Austin,53,Female,197825
+10.444865201096087,High School,Data Scientist,New York,59,Male,193715
+15.399871061972217,PhD,Data Scientist,New York,54,Male,262038
+4.316420549936863,PhD,Analyst,Remote,44,Other,175297
+12.457809516380005,PhD,Analyst,India,36,Female,201869
+1.70694929987536,Master,Data Scientist,Austin,54,Other,172174
+1.033634423372154,High School,Manager,India,46,Other,121485
+10.62709263136296,Bachelor,HR,Remote,38,Other,170114
+10.81270243220213,Bachelor,HR,New York,54,Male,194146
+12.748598029964132,High School,Analyst,India,23,Male,127827
+14.52182667445323,Master,HR,India,35,Female,179344
+19.51704158925069,Master,Data Scientist,New York,27,Female,247903
+10.326006966023906,PhD,Data Scientist,Austin,27,Other,192752
+6.459129458824919,High School,Analyst,New York,24,Other,122044
+15.903723895374073,High School,Analyst,India,28,Other,167959
+5.416645025241484,Bachelor,Analyst,Austin,29,Female,125850
+8.779428414112722,High School,Manager,Austin,36,Male,164184
+1.5691276268453191,Master,HR,New York,50,Male,153581
+0.5070148683091502,High School,Analyst,India,54,Other,122246
+19.252968293558503,Bachelor,Software Engineer,Remote,51,Other,248641
+16.719602410244118,PhD,Software Engineer,India,48,Other,255508
+13.91948412187396,Bachelor,Data Scientist,San Francisco,57,Other,259510
+8.179058888285397,Bachelor,HR,Remote,50,Female,162453
+3.4658864014169155,PhD,Analyst,Austin,59,Male,202015
+3.128740853421721,Bachelor,Software Engineer,Remote,54,Other,165263
+5.004857963291906,Bachelor,HR,Austin,58,Female,157821
+10.984533294122409,High School,Data Scientist,Austin,48,Other,160399
+14.291918454001246,High School,Manager,Remote,54,Other,206349
+13.203947534354626,PhD,HR,Austin,25,Male,199301
+5.598677938918857,High School,HR,Austin,43,Other,120018
+19.09730561326388,High School,Manager,San Francisco,23,Male,219465
+14.75793833391537,Bachelor,HR,India,31,Male,173453
+11.087081050228013,Master,Data Scientist,India,26,Male,185937
+12.234414924687044,High School,Data Scientist,San Francisco,31,Female,191529
+8.392001248555799,Master,Manager,Remote,54,Female,201891
+4.954619790023149,High School,Analyst,New York,59,Male,156346
+7.119453573025232,High School,Software Engineer,New York,34,Other,161088
+15.156922209287382,PhD,Analyst,New York,52,Male,278513
+0.28786977259511737,PhD,HR,San Francisco,57,Other,212704
+2.3214528101383247,PhD,Software Engineer,San Francisco,45,Male,208937
+0.920052840435055,Master,Manager,Austin,36,Other,167000
+0.8145760463794027,Bachelor,Manager,New York,50,Female,186889
+17.109211680220145,High School,Software Engineer,Remote,29,Other,170838
+14.073157187600474,High School,Data Scientist,Remote,26,Male,170663
+9.483476581746505,High School,Software Engineer,New York,50,Female,188101
+1.9566832130200296,Master,HR,New York,25,Other,157262
+9.832317502336647,PhD,Data Scientist,New York,33,Other,218790
+9.469435415611313,Bachelor,Manager,San Francisco,23,Other,178953
+3.4640373982003037,Master,Software Engineer,San Francisco,48,Other,193534
+8.67703298475946,PhD,Analyst,San Francisco,52,Other,237162
+7.970094687947469,Master,Analyst,India,57,Female,196079
+12.31700196104433,Bachelor,HR,Remote,57,Female,191760
+12.701873017352876,PhD,Analyst,Remote,47,Female,221995
+0.9060801954408904,Master,Software Engineer,Austin,48,Female,164695
+7.492252292529424,Bachelor,Software Engineer,San Francisco,26,Male,174472
+12.517198314284727,High School,Analyst,India,41,Female,169036
+10.062725171601754,Bachelor,Software Engineer,India,32,Other,161970
+17.129796823766444,High School,HR,Remote,31,Other,160818
+13.1738726323789,Master,Data Scientist,San Francisco,59,Female,262365
+3.258688541628594,PhD,HR,Austin,27,Other,158278
+1.4113749480085969,PhD,HR,San Francisco,29,Female,153347
+12.848385564126312,Master,Software Engineer,New York,44,Other,231085
+0.5302262108324363,PhD,Data Scientist,San Francisco,47,Male,201644
+11.715511625469265,PhD,Software Engineer,New York,33,Male,229139
+18.80460482849915,High School,Manager,New York,47,Female,244379
+11.50948355751758,Master,Software Engineer,Austin,34,Female,191691
+7.763398524130438,Bachelor,Software Engineer,Remote,39,Female,165373
+12.865764368847064,High School,Software Engineer,San Francisco,46,Other,196850
+9.165057809830333,Master,Data Scientist,New York,54,Female,228902
+10.9123357863187,High School,Software Engineer,San Francisco,33,Male,179680
+18.8292961755305,Bachelor,Data Scientist,Remote,57,Other,226071
+7.722052756015485,Bachelor,Analyst,Remote,25,Female,138527
+19.223811276478283,Master,Manager,India,26,Other,253009
+18.107012839121275,Bachelor,Data Scientist,Remote,58,Other,220967
+3.915822695785929,High School,Analyst,Austin,29,Female,106003
+1.387226017503309,Bachelor,Data Scientist,New York,49,Other,175169
+2.015560027548533,High School,Data Scientist,India,52,Male,128094
+0.36443651303099456,High School,Manager,Austin,30,Male,116702
+1.888859215118568,Bachelor,HR,San Francisco,50,Other,128688
+13.660135468327137,Master,HR,New York,35,Female,217283
+1.4237729692045797,PhD,Data Scientist,Remote,43,Other,170502
+6.379512605875226,Bachelor,Software Engineer,New York,32,Male,169996
+16.89750621938909,High School,Analyst,San Francisco,44,Other,206193
+0.4654387147165173,High School,Software Engineer,India,22,Other,105111
+16.289369651778717,Bachelor,Software Engineer,India,58,Male,222914
+5.637095495467999,Master,Data Scientist,India,42,Other,172059
+2.363296552433125,Master,Data Scientist,Remote,47,Other,151720
+13.934743307283012,High School,Data Scientist,Austin,57,Female,200885
+12.57885693559768,High School,Data Scientist,Austin,44,Female,188127
+17.54944027054106,Master,HR,New York,22,Male,216942
+14.701420876077716,PhD,Data Scientist,Remote,36,Male,232451
+16.06961860769697,Bachelor,HR,India,42,Male,179622
+5.64069145142613,High School,HR,India,30,Female,106555
+3.5487908755944564,High School,Data Scientist,San Francisco,30,Male,148338
+15.012295032817168,Master,Manager,San Francisco,31,Male,257674
+16.13669478534528,Bachelor,Analyst,India,47,Male,185733
+19.810102840013467,Master,Software Engineer,India,56,Female,258310
+8.25235353822853,Bachelor,HR,Remote,46,Other,154045
+7.440361715855664,Bachelor,Analyst,Austin,47,Male,161279
+15.528259214839936,Bachelor,Manager,San Francisco,32,Other,231660
+6.816070805060357,High School,Software Engineer,Austin,59,Male,165157
+18.615146512071295,PhD,Software Engineer,Remote,23,Other,244363
+17.168255036860238,Master,HR,India,28,Female,186267
+8.579880547500366,PhD,Data Scientist,Austin,39,Female,207401
+15.017421355829947,Master,Manager,India,48,Male,245946
+15.090857481693646,Bachelor,HR,India,55,Other,191249
+2.062477376718652,High School,Manager,New York,48,Female,154373
+18.051058133591333,PhD,Data Scientist,Austin,38,Male,271802
+10.105047448957142,High School,Data Scientist,Austin,45,Male,173160
+16.529149322154833,Master,HR,India,46,Female,217111
+6.400992020612235,High School,Data Scientist,Remote,28,Female,136951
+17.91046456992401,High School,Analyst,New York,27,Male,168386
+7.784033574683262,PhD,Software Engineer,India,45,Other,197021
+0.2167530296059672,Bachelor,HR,San Francisco,54,Other,152770
+18.107639528385274,High School,Manager,San Francisco,50,Other,252415
+1.8257335357226712,Bachelor,Analyst,New York,43,Male,145790
+6.386272751808297,Master,HR,Remote,47,Female,158484
+19.0012393410161,High School,Data Scientist,India,49,Male,198825
+19.012142938751122,PhD,Data Scientist,Austin,42,Female,278899
+11.468757762465723,Master,Data Scientist,New York,28,Other,211166
+12.636744243395984,Master,Data Scientist,Remote,38,Other,209112
+8.968910439566395,PhD,Manager,Austin,41,Female,229995
+5.864215433961291,High School,Analyst,San Francisco,41,Female,119306
+6.573290907398319,High School,Software Engineer,San Francisco,43,Male,183870
+13.450369121540769,Master,Manager,Austin,49,Other,226941
+15.0474905887536,High School,Manager,New York,28,Male,198657
+15.83158087451697,Bachelor,Software Engineer,San Francisco,22,Male,192111
+15.792362855891078,PhD,Software Engineer,India,53,Male,245736
+1.8241220609738074,Bachelor,Data Scientist,Austin,34,Other,148567
+9.888406094051629,High School,Manager,Austin,51,Male,159280
+1.1511752003328857,Master,HR,San Francisco,44,Male,174018
+10.99057764647471,PhD,Software Engineer,New York,40,Male,235216
+8.83061002746754,High School,Software Engineer,India,53,Male,160025
+17.754083655165996,High School,Analyst,New York,51,Male,219346
+7.018300251041573,Master,HR,Remote,50,Male,177506
+2.3413403285521173,Master,HR,Remote,50,Other,141057
+2.859833641056717,Bachelor,Software Engineer,San Francisco,51,Male,169654
+15.230212634349446,PhD,Data Scientist,San Francisco,37,Female,251536
+12.364361266325222,PhD,Analyst,San Francisco,40,Male,244740
+2.022453522455805,Master,HR,Remote,39,Male,154133
+1.6821361222999487,Bachelor,Software Engineer,New York,22,Other,115166
+14.019382629182399,PhD,HR,New York,35,Other,225480
+1.4552601272838706,Master,Analyst,San Francisco,23,Female,146459
+16.437201185807126,High School,Analyst,India,49,Female,180919
+14.124844543129925,PhD,Manager,New York,51,Other,283416
+1.6269756128379953,Bachelor,Software Engineer,Remote,59,Other,148613
+1.6967542817038384,Bachelor,Analyst,Austin,25,Male,108324
+19.732791570023508,Bachelor,Manager,Austin,22,Other,229695
+7.485415915122406,High School,Manager,Austin,29,Female,151047
+7.412842941337818,PhD,HR,India,50,Male,195454
+16.25599134515005,PhD,HR,San Francisco,24,Female,239405
+18.944971547677174,High School,Manager,Remote,53,Male,230556
+19.720021276457416,PhD,HR,India,31,Other,226037
+15.067563705178832,High School,Analyst,Remote,31,Female,151411
+7.525191710618316,High School,Data Scientist,Remote,40,Male,153087
+1.6700143339733753,High School,Analyst,San Francisco,55,Male,125100
+15.542938318548735,Bachelor,Manager,Austin,54,Other,230636
+11.1680849947161,PhD,Manager,San Francisco,44,Other,254675
+8.484440184939526,High School,Analyst,India,49,Other,125365
+18.12708770189472,PhD,HR,India,53,Female,237323
+2.223949646123027,Bachelor,HR,India,28,Male,101030
+9.852502085817182,High School,Manager,San Francisco,50,Other,207602
+0.22707289534838138,Master,Software Engineer,Remote,29,Female,126606
+9.373212839882525,Bachelor,HR,Remote,22,Female,149000
+1.126065513636747,Master,Analyst,New York,24,Female,143262
+2.3763583253614384,PhD,HR,India,45,Other,172986
+2.3505249355420976,PhD,Analyst,Remote,44,Other,162708
+12.984206042321272,Bachelor,Manager,New York,29,Male,206433
+14.920897585308467,PhD,HR,Remote,58,Male,244289
+11.667375301943192,Master,Analyst,India,24,Other,168542
+19.243450969490837,High School,Manager,Austin,54,Female,237747
+7.497411590474082,High School,Software Engineer,India,49,Female,122411
+5.714241725637215,High School,Analyst,San Francisco,29,Female,159795
+17.371982563789206,Bachelor,Software Engineer,Remote,55,Male,233438
+4.471916770389052,PhD,Software Engineer,Remote,56,Female,199624
+19.264450788812226,Master,Data Scientist,San Francisco,53,Male,276799
+0.24308949379632683,PhD,HR,San Francisco,45,Male,170551
+19.39757653415278,PhD,Analyst,Austin,35,Female,256444
+0.8631982390115223,PhD,Software Engineer,Remote,53,Female,190266
+17.822862273961423,High School,Data Scientist,Remote,37,Other,192489
+10.554022181725998,Master,Manager,Austin,25,Other,206840
+19.859295922386007,Master,Analyst,New York,58,Female,261224
+1.4759312947079772,PhD,Software Engineer,Austin,42,Male,166542
+11.077085688026415,High School,HR,India,35,Male,151519
+19.38605071238198,High School,Data Scientist,Remote,52,Male,222841
+10.461956883402976,Master,Software Engineer,San Francisco,39,Male,233278
+12.58797276270525,High School,HR,India,28,Male,125400
+13.914973779692343,High School,Software Engineer,Remote,31,Other,154340
+9.090821295355465,High School,Analyst,Austin,28,Female,127868
+12.551161601681269,Bachelor,Analyst,India,54,Other,176515
+11.686286238462005,PhD,Analyst,Remote,44,Male,222485
+18.02316020981978,Master,Data Scientist,New York,42,Male,252605
+0.9089276068291574,Master,Analyst,New York,40,Male,145828
+5.619263791844606,Bachelor,HR,San Francisco,40,Male,162516
+19.008229681531176,PhD,Software Engineer,Remote,57,Female,262141
+17.805275677818326,Master,Manager,New York,50,Male,254032
+9.11313505571426,High School,HR,Austin,39,Female,138898
+12.402651956030734,Master,HR,Remote,23,Male,155521
+5.547623659622653,High School,Analyst,Austin,22,Female,115491
+3.762423194475226,Bachelor,Data Scientist,Austin,26,Other,123859
+9.273968098799642,High School,Software Engineer,New York,41,Male,147963
+7.067044560521056,Master,Data Scientist,Remote,32,Female,172397
+11.673122237017441,Master,Software Engineer,India,23,Other,180812
+1.5546927392996968,Master,Software Engineer,New York,24,Male,159688
+19.48789615332333,Bachelor,Data Scientist,New York,44,Male,251160
+19.72421488959206,Bachelor,HR,Remote,33,Male,189028
